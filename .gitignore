@@ -1,0 +1,6 @@
+.idea
+Python_Project.iml
+target
+out
+data/output/
+__pycache__/
